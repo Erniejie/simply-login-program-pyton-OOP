@@ -1,2 +1,2 @@
-# simply-login-program-pyton-OOP
-simply login program pyton OOP
+# simply-login-program-pytHon-OOP
+simply login program pytHon OOP
